@@ -131,7 +131,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _main_header__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./main-header */ "./components/layout/main-header.js");
 
-var _jsxFileName = "D:\\Code\\Next\\nextjs-course-code-193d8302fe13db78dedaa57fd99becdd871eb343\\components\\layout\\layout.js";
+var _jsxFileName = "D:\\Code\\Next\\NextEvents\\components\\layout\\layout.js";
 
 
 function Layout(props) {
@@ -173,7 +173,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _main_header_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./main-header.module.css */ "./components/layout/main-header.module.css");
 /* harmony import */ var _main_header_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_main_header_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "D:\\Code\\Next\\nextjs-course-code-193d8302fe13db78dedaa57fd99becdd871eb343\\components\\layout\\main-header.js";
+var _jsxFileName = "D:\\Code\\Next\\NextEvents\\components\\layout\\main-header.js";
 
 
 function MainHeader() {
@@ -3070,7 +3070,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles/globals.css */ "./styles/globals.css");
 /* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "D:\\Code\\Next\\nextjs-course-code-193d8302fe13db78dedaa57fd99becdd871eb343\\pages\\_app.js";
+var _jsxFileName = "D:\\Code\\Next\\NextEvents\\pages\\_app.js";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
